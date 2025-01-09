@@ -1,0 +1,417 @@
+@media only screen and (max-width:1290px){
+    .logo{
+        width:90px;
+    }
+    .header-link>li>a{
+        font-size:20px;
+    }
+    .button-login{
+        width:130px;
+        font-size:20px;
+    }
+    .h1-discover-text{
+        font-size:76px;
+    }
+    .h4-discover-text{
+        font-size:22px;
+    }
+    .section-exclusive-offer{
+        overflow:hidden;
+    }
+    .discover-fashion-img{
+        width:456px;
+    }
+    .best-selling-product{
+        width:330px;
+    }
+    .h4-product-text{
+        font-size:20px;
+    }
+    .name-product{
+        display:none;
+    }
+    .buy-product{
+        position:relative;
+        right:10px;
+    }
+    .product-dress-img{
+        width:250px;
+    }
+    .h5-exclusive-offer-text{
+        font-size:20px;
+    }
+    .designer-clothes-img{
+        width:330px;
+    }
+    .h5-accessories-text{
+        font-size:20px;
+    }
+    .feedback-corner-text-div{
+        width:330px;
+    }
+    .h6-feedback-text{
+        font-size:14px;
+    }
+    .paragraf-footer{
+        font-size:25px;
+    }
+}
+
+@media only screen and (max-width:1138px){
+    .header-link>li>a{
+        font-size:15px;
+    }
+    .button-login{
+        width:120px;
+        font-size:15px;
+    }
+    .h1-discover-text{
+        font-size:60px;
+    }
+    .h4-discover-text{
+        font-size:18px;
+    }
+    .discover-fashion-img{
+        width:356px;
+    }
+    .product-dress-img{
+        width:200px;
+    }
+    .best-selling-product{
+        width:260px;
+    }
+    .h5-exclusive-offer-text{
+        font-size:12px;
+    }
+    .designer-clothes-img{
+        width:260px;
+    }
+    .paragraf-accessories{
+        font-size:25px;
+    }
+    .h5-accessories-text{
+        font-size:15px;
+    }
+    .feedback-corner-text-div{
+        width:260px;
+    }
+    .paragraf-sarah-joseph{
+        font-size:20px;
+    }
+    .h6-feedback-text{
+        font-size:11px;
+    }
+    .paragraf-footer{
+        font-size:20px;
+    }
+    .footer-icon-img{
+        width:40px;
+        height:40px;
+    }
+    .h3-footer-text{
+        font-size:30px;
+    }
+    .button-enter-email{
+        width:300px;
+    }
+}
+
+@media only screen and (max-width:975px){
+    .header-link>li>a{
+        display:none;
+    }
+    .discover-fashion-conteiner{
+        flex-direction:column-reverse;
+        gap:20px;
+    }
+    .discover-fashion-img{
+        width:556px;
+        height:717px;
+        position:relative;
+        right:60px;
+    }
+    .h1-discover-text-div{
+        position:relative;
+        left:60px;
+    }
+    .h4-best-selling-text{
+        font-size:15px;
+    }
+    .best-selling-product{
+        width:200px;
+    }
+    .product-dress-img{
+        width:180px;
+    }
+    .accessories-div{
+        width:600px;
+    }
+    .h5-new-arrival-text{
+        font-size:20px;
+    }
+    .paragraf-exclusive-offer{
+        font-size:36px;
+    }
+    .h5-exclusive-offer-text{
+        font-size:10px;
+    }
+    .exclusive-offer-calendar{
+        gap:5px;
+    }
+    .designer-clothes-img{
+        width:200px;
+    }
+    .paragraf-accessories{
+        display:none;
+    }
+    .h5-accessories-text{
+        display:none;
+    }
+    .feedback-corner-div{
+        flex-direction:column;
+        align-items:center;
+        gap:20px;
+    }
+    .feedback-corner-text-div{
+        width:434px;
+    }
+    .paragraf-sarah-joseph{
+        font-size:30px;
+    }
+    .h6-feedback-text{
+        font-size:18px;
+    }
+    .footer-conteiner{
+        flex-direction:column;
+        gap:30px;
+    }
+    .button-enter-email{
+        width:200px;
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:945px){
+    .exclusive-offer-text-div{
+        display:none;
+    }
+}
+
+@media only screen and (max-width:895px){
+    .best-selling-img-div{
+        width:80%;
+        flex-wrap:wrap;
+        gap:20px;
+    }
+    .new-arrival-product{
+        width:70%;
+        flex-wrap:wrap;
+        gap:20px;
+    }
+    .designer-clothes-products{
+        width:70%;
+        flex-wrap:wrap;
+        margin-left:40px;
+        gap:20px;
+    }
+}
+
+@media only screen and (max-width:796px){
+    .section-best-selling{
+        overflow:hidden;
+    }
+}
+
+@media only screen and (max-width:745px){
+    .designer-clothes-img{
+        width:430px;
+    }
+}
+
+@media only screen and (max-width:680px){
+    .product-dress-img{
+        width:600px;
+        margin:0 auto;
+    }
+    .accessories-div{
+        width:600px;
+        flex-direction:column;
+    }
+    .h5-new-arrival-text{
+        font-size:35px;
+    }
+}
+
+@media only screen and (max-width:676px){
+    .section-discover-fashion{
+        overflow:hidden;
+    }
+    .h5-new-arrival-text{
+        font-size:15px;
+    }
+    .discover-fashion-img{
+        width:456px;
+        margin-left:120px;
+    }
+    .discover-text-div{
+        position:relative;
+        left:120px;
+    }
+    .section-designer-clothes{
+        overflow:hidden;
+    }
+}
+
+@media only screen and (max-width:660px){
+    .best-selling-product{
+        width:430px;
+    }
+}
+
+@media only screen and (max-width:616px){
+    .section-new-arrilav{
+        overflow:hidden;
+    }
+}
+
+@media only screen and (max-width:585px){
+    .best-selling-product{
+        width:500px;
+        position:relative;
+        right:40px;
+    }
+    .designer-clothes-img{
+        width:500px;
+        position:relative;
+        right:30px;
+    }
+    .feedback-corner-div{
+        position:relative;
+        left:5px;
+    }
+}
+
+@media only screen and (max-width:568px){
+    .shopping-bag{
+        display:none;
+    }
+    .button-login{
+        display:none;
+    }
+    .header-menu{
+        font-size:40px;
+        display:block;
+    }
+    .discover-fashion-img{
+        width:356px;
+    }
+    .h4-best-selling-text{
+        font-size:12px;
+    }
+}
+
+@media only screen and (max-width:515px){
+    .best-selling-product{
+        width:400px;
+    }
+    .new-arrival-product{
+        margin-right:50px;
+    }
+    .designer-clothes-img{
+        right:60px;
+    }
+}
+
+@media only screen and (max-width:475px){
+    .best-selling-product{
+        width:350px;
+        margin-left:10px;
+    }
+    .designer-clothes-img{
+        width:350px;
+        margin-left:25px;
+    }
+    .feedback-corner-text-div{
+        width:350px;
+    }
+    .h6-feedback-text{
+        font-size:14px;
+    }
+}
+
+@media only screen and (max-width:435px){
+    .h4-discover-text{
+        display:none;
+    }
+    .h1-discover-text{
+        font-size:50px;
+        margin-left:40px;
+    }
+    .h4-discover-text{
+        font-size:14px;
+        margin-left:40px;
+    }
+    .button-explore-now{
+        margin-left:40px;
+    }
+    .best-selling-img-div{
+        margin-right:70px;
+    }
+    .best-selling-product{
+        width:390px;
+    }
+    .new-arrival-product{
+        margin-right:100px;
+    }
+    .exclusive-offer-background-img{
+        width:400px;
+        position:relative;
+        right:40px;
+    }
+    .designer-clothes-img{
+        width:380px;
+        position:relative;
+        right:95px;
+    }
+}
+
+@media only screen and (max-width:415px){
+    .h4-best-selling-text{
+        display:none;
+    }
+    .best-selling-product{
+        width:380px;
+        margin-left:15px;
+    }
+    .new-arrival-product{
+        margin-right:90px;
+    }
+    .exclusive-offer-background-img{
+        width:380px;
+    }
+    .designer-clothes-img{
+        width:350px;
+        margin-left:35px;
+    }
+}
+
+@media only screen and (max-width:402px){
+    .best-selling-product{
+        width:340px;
+        margin-left:20px;
+    }
+    .footer-conteiner{
+        overflow:hidden;
+    }
+    .footer-contact-div{
+        flex-direction:column;
+        gap:20px;
+    }
+}
+
+@media only screen and (max-width:368px){
+    .logo{
+        width:60px;
+        height:60px;
+    }
+}
